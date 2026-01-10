@@ -62,6 +62,13 @@
       "quantity": 12,
       "buyPrice": 130,
       "image": ""
+    },
+    {
+      "id": 1768035870891,
+      "name": "Maca",
+      "quantity": 2,
+      "buyPrice": 180,
+      "image": ""
     }
   ],
   "orders": [
