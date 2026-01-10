@@ -69,6 +69,13 @@
       "quantity": 2,
       "buyPrice": 180,
       "image": ""
+    },
+    {
+      "id": 1768035881506,
+      "name": "Oil",
+      "quantity": 7,
+      "buyPrice": 100,
+      "image": ""
     }
   ],
   "orders": [
