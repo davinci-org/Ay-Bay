@@ -132,7 +132,14 @@
     }
   ],
   "payments": [],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": 1768036361234,
+      "dateTime": "১০ জানু, ২০২৬, ০৩:১২ PM",
+      "reason": "Packaging ",
+      "amount": 200
+    }
+  ],
   "shops": [
     {
       "id": 1768035194053,
