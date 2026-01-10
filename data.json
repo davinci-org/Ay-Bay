@@ -55,6 +55,13 @@
       "quantity": 1,
       "buyPrice": 700,
       "image": ""
+    },
+    {
+      "id": 1768035856179,
+      "name": "Weight gain ",
+      "quantity": 12,
+      "buyPrice": 130,
+      "image": ""
     }
   ],
   "orders": [
