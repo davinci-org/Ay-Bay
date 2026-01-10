@@ -141,6 +141,12 @@
   "payments": [],
   "expenses": [
     {
+      "id": 1768049072389,
+      "dateTime": "১০ জানু, ২০২৬, ০৬:৪৪ PM",
+      "reason": "Rolex Watch In Stock",
+      "amount": 1350
+    },
+    {
       "id": 1768048640713,
       "dateTime": "১০ জানু, ২০২৬, ০৬:৩৭ PM",
       "reason": "আগের প্রোডাক্ট এর ডিউ",
