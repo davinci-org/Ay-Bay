@@ -59,7 +59,7 @@
     {
       "id": 1768035856179,
       "name": "Weight gain ",
-      "quantity": 12,
+      "quantity": 11,
       "buyPrice": 130,
       "image": ""
     },
@@ -114,6 +114,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1768036227615,
+      "productName": "Weight gain ",
+      "quantity": 1,
+      "shopName": "Cartup - DaVinci",
+      "dateTime": "১০ জানু, ২০২৬, ০৩:১০ PM",
+      "totalCost": 130
+    },
     {
       "id": 1768035368943,
       "productName": "Piles care ",
