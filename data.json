@@ -48,6 +48,13 @@
       "quantity": 2,
       "buyPrice": 220,
       "image": ""
+    },
+    {
+      "id": 1768035832494,
+      "name": "Citizen Quartz",
+      "quantity": 1,
+      "buyPrice": 700,
+      "image": ""
     }
   ],
   "orders": [
