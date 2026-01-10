@@ -97,6 +97,13 @@
       "quantity": 2,
       "buyPrice": 130,
       "image": ""
+    },
+    {
+      "id": 1768035949545,
+      "name": "Guddi 32 size",
+      "quantity": 12,
+      "buyPrice": 130,
+      "image": ""
     }
   ],
   "orders": [
