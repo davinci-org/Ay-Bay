@@ -1,1 +1,12 @@
-
+{
+  "products": [],
+  "orders": [],
+  "payments": [],
+  "expenses": [],
+  "shops": [
+    {
+      "id": 1768035194053,
+      "name": "LAZADA - Uniq"
+    }
+  ]
+}
