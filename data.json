@@ -111,6 +111,13 @@
       "quantity": 12,
       "buyPrice": 130,
       "image": ""
+    },
+    {
+      "id": 1768048779011,
+      "name": "Rolex Watch ",
+      "quantity": 2,
+      "buyPrice": 675,
+      "image": ""
     }
   ],
   "orders": [
