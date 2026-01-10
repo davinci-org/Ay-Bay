@@ -34,6 +34,13 @@
       "quantity": 1,
       "buyPrice": 140,
       "image": ""
+    },
+    {
+      "id": 1768035548419,
+      "name": "Energy boost ",
+      "quantity": 4,
+      "buyPrice": 130,
+      "image": ""
     }
   ],
   "orders": [
