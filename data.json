@@ -90,6 +90,13 @@
       "quantity": 8,
       "buyPrice": 130,
       "image": ""
+    },
+    {
+      "id": 1768035935929,
+      "name": "Guddi 34 size",
+      "quantity": 2,
+      "buyPrice": 130,
+      "image": ""
     }
   ],
   "orders": [
