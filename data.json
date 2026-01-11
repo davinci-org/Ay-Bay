@@ -4,123 +4,109 @@
       "id": 1768035331683,
       "name": "Piles care ",
       "quantity": 3,
-      "buyPrice": 120,
-      "image": "" },
+      "buyPrice": 120
+    },
     {
       "id": 1768035425345,
       "name": "Gluta",
       "quantity": 1,
-      "buyPrice": 255,
-      "image": "" },
+      "buyPrice": 255
+    },
     {
       "id": 1768035442626,
       "name": "Saffron packet",
       "quantity": 2,
-      "buyPrice": 200,
-     "image": "" },
+      "buyPrice": 200
+    },
     {
       "id": 1768035479761,
       "name": "Forgot energy drink",
       "quantity": 1,
-      "buyPrice": 155,
-      "image": ""   },
+      "buyPrice": 155
+    },
     {
       "id": 1768035509705,
       "name": "Height Development Packet",
       "quantity": 1,
-      "buyPrice": 140,
-      "image": ""
+      "buyPrice": 140
     },
     {
       "id": 1768035548419,
       "name": "Energy boost ",
       "quantity": 4,
-      "buyPrice": 130,
-     "image": ""
-     },
+      "buyPrice": 130
+    },
     {
       "id": 1768035740308,
       "name": "Ar Rahikul Book",
       "quantity": 2,
-      "buyPrice": 220,
-      "image": ""
+      "buyPrice": 220
     },
     {
       "id": 1768035832494,
       "name": "Citizen Quartz",
       "quantity": 1,
-      "buyPrice": 700,
-      "image": ""
+      "buyPrice": 700
     },
     {
       "id": 1768035856179,
       "name": "Weight gain ",
       "quantity": 11,
-      "buyPrice": 130,
-      "image": ""
+      "buyPrice": 130
     },
     {
       "id": 1768035870891,
       "name": "Maca",
       "quantity": 2,
-      "buyPrice": 180,
-      "image": ""
+      "buyPrice": 180
     },
     {
       "id": 1768035881506,
       "name": "Oil",
       "quantity": 7,
-      "buyPrice": 100,
-      "image": ""
+      "buyPrice": 100
     },
     {
       "id": 1768035904000,
       "name": "Like me 40 size",
       "quantity": 8,
-      "buyPrice": 130,
-      "image": ""
+      "buyPrice": 130
     },
     {
       "id": 1768035921826,
       "name": "Like me 34 size",
       "quantity": 8,
-      "buyPrice": 130,
-      "image": ""
+      "buyPrice": 130
     },
     {
       "id": 1768035935929,
       "name": "Guddi 34 size",
       "quantity": 2,
-      "buyPrice": 130,
-      "image": ""
+      "buyPrice": 130
     },
     {
       "id": 1768035949545,
       "name": "Guddi 32 size",
       "quantity": 20,
-      "buyPrice": 130,
-      "image": ""
+      "buyPrice": 130
     },
     {
       "id": 1768035983442,
       "name": "Guddi 36 size",
       "quantity": 12,
-      "buyPrice": 130,
-      "image": ""
+      "buyPrice": 130
     },
     {
       "id": 1768048779011,
       "name": "Rolex Watch ",
       "quantity": 2,
-      "buyPrice": 675,
-      "image": ""
+      "buyPrice": 675
     },
     {
       "id": 1768106329379,
       "name": "Saffron ",
       "quantity": 19,
-      "buyPrice": 107,
-     "image": ""
+      "buyPrice": 107
     }
   ],
   "orders": [
@@ -150,6 +136,13 @@
     }
   ],
   "payments": [
+    {
+      "id": 1768131759341,
+      "dateTime": "১১ জানু, ২০২৬, ০৫:৪২ PM",
+      "shopName": "LAZADA - Uniq",
+      "amount": 56,
+      "note": "BDAW8JY3E0-2026-001"
+    },
     {
       "id": 1768122061181,
       "dateTime": "১১ জানু, ২০২৬, ০৩:০১ PM",
