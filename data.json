@@ -156,6 +156,12 @@
   "payments": [],
   "expenses": [
     {
+      "id": 1768120309552,
+      "dateTime": "১১ জানু, ২০২৬, ০২:৩১ PM",
+      "reason": "আগের প্রোডাক্ট এর ডিউ (Akash Bhai)",
+      "amount": 600
+    },
+    {
       "id": 1768049072389,
       "dateTime": "১০ জানু, ২০২৬, ০৬:৪৪ PM",
       "reason": "Rolex Watch In Stock",
@@ -219,5 +225,6 @@
       "content": "Saffron 1 ta mone hoy masum bhair theke diche",
       "date": "১০ জানু, ২০২৬, ০৪:৫৮ PM"
     }
-  ]
+  ],
+  "returns": []
 }
