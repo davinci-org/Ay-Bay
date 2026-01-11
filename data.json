@@ -118,6 +118,13 @@
       "quantity": 2,
       "buyPrice": 675,
       "image": ""
+    },
+    {
+      "id": 1768106329379,
+      "name": "Saffron ",
+      "quantity": 20,
+      "buyPrice": 107,
+      "image": ""
     }
   ],
   "orders": [
