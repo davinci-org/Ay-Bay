@@ -153,7 +153,15 @@
       "totalCost": 120
     }
   ],
-  "payments": [],
+  "payments": [
+    {
+      "id": 1768122000495,
+      "dateTime": "১১ জানু, ২০২৬, ০৩:০০ PM",
+      "shopName": "LAZADA - DaVinci",
+      "amount": 5540,
+      "note": "BDAW5B9MWE-2026-001"
+    }
+  ],
   "expenses": [
     {
       "id": 1768120309552,
