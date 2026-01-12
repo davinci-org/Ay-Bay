@@ -45,7 +45,7 @@
     {
       "id": 1768035832494,
       "name": "Citizen Quartz",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 700
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1768208989948,
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "১২ জানু, ২০২৬, ০৩:০৯ PM",
+      "totalCost": 700
+    },
     {
       "id": 1768208975971,
       "productName": "Rolex Watch ",
