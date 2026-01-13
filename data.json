@@ -45,7 +45,7 @@
     {
       "id": 1768035832494,
       "name": "Citizen Quartz",
-      "quantity": 0,
+      "quantity": 1,
       "buyPrice": 700
     },
     {
@@ -271,5 +271,15 @@
       "date": "১০ জানু, ২০২৬, ০৬:৩০ PM"
     }
   ],
-  "returns": []
+  "returns": [
+    {
+      "id": 1768303485350,
+      "dateTime": "১৩ জানু, ২০২৬, ০৫:২৪ PM",
+      "shopName": "Cartup - DaVinci",
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "refundValue": 700,
+      "reason": ""
+    }
+  ]
 }
