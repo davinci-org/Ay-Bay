@@ -105,11 +105,19 @@
     {
       "id": 1768106329379,
       "name": "Saffron ",
-      "quantity": 19,
+      "quantity": 14,
       "buyPrice": 107
     }
   ],
   "orders": [
+    {
+      "id": 1768543074349,
+      "productName": "Saffron ",
+      "quantity": 5,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "১৬ জানু, ২০২৬, ১১:৫৭ AM",
+      "totalCost": 535
+    },
     {
       "id": 1768208989948,
       "productName": "Citizen Quartz",
