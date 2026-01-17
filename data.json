@@ -45,7 +45,7 @@
     {
       "id": 1768035832494,
       "name": "Citizen Quartz",
-      "quantity": 2,
+      "quantity": 3,
       "buyPrice": 700
     },
     {
@@ -280,6 +280,15 @@
     }
   ],
   "returns": [
+    {
+      "id": 1768641449410,
+      "dateTime": "১৭ জানু, ২০২৬, ০৩:১৭ PM",
+      "shopName": "LAZADA - DaVinci",
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "refundValue": 700,
+      "reason": ""
+    },
     {
       "id": 1768641440933,
       "dateTime": "১৭ জানু, ২০২৬, ০৩:১৭ PM",
