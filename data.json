@@ -169,6 +169,13 @@
   ],
   "payments": [
     {
+      "id": 1768725582568,
+      "dateTime": "১৮ জানু, ২০২৬, ০২:৩৯ PM",
+      "shopName": "LAZADA - Uniq",
+      "amount": 3000,
+      "note": ""
+    },
+    {
       "id": 1768725568006,
       "dateTime": "১৮ জানু, ২০২৬, ০২:৩৯ PM",
       "shopName": "LAZADA - DaVinci",
