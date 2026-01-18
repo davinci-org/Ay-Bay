@@ -51,7 +51,7 @@
     {
       "id": 1768035856179,
       "name": "Weight gain ",
-      "quantity": 11,
+      "quantity": 9,
       "buyPrice": 130
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1768725746221,
+      "productName": "Weight gain ",
+      "quantity": 2,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "১৮ জানু, ২০২৬, ০২:৪২ PM",
+      "totalCost": 260
+    },
     {
       "id": 1768642183300,
       "productName": "Saffron ",
