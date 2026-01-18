@@ -169,6 +169,13 @@
   ],
   "payments": [
     {
+      "id": 1768725568006,
+      "dateTime": "১৮ জানু, ২০২৬, ০২:৩৯ PM",
+      "shopName": "LAZADA - DaVinci",
+      "amount": 7500,
+      "note": ""
+    },
+    {
       "id": 1768199961490,
       "dateTime": "১২ জানু, ২০২৬, ১২:৩৯ PM",
       "shopName": "Cartup - DaVinci",
