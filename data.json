@@ -250,6 +250,12 @@
   ],
   "expenses": [
     {
+      "id": 1768927700158,
+      "dateTime": "২০ জানু, ২০২৬, ১০:৪৮ PM",
+      "reason": "ইমেজের স্যালারি ",
+      "amount": 500
+    },
+    {
       "id": 1768136526133,
       "dateTime": "১১ জানু, ২০২৬, ০৭:০২ PM",
       "reason": "Rolex Watch Delivery Charge ",
