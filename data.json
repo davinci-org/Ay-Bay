@@ -15,7 +15,7 @@
     {
       "id": 1768035442626,
       "name": "Saffron packet",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 200
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1768910871296,
+      "productName": "Saffron packet",
+      "quantity": 1,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "২০ জানু, ২০২৬, ০৬:০৭ PM",
+      "totalCost": 200
+    },
     {
       "id": 1768725746221,
       "productName": "Weight gain ",
