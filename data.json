@@ -65,6 +65,12 @@
       "name": "Oil ",
       "quantity": 7,
       "buyPrice": 105
+    },
+    {
+      "id": 1769075311594,
+      "name": "Saffron tab",
+      "quantity": 2,
+      "buyPrice": 105
     }
   ],
   "orders": [],
