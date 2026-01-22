@@ -17,6 +17,12 @@
       "name": "Forgot energy drink ",
       "quantity": 1,
       "buyPrice": 130
+    },
+    {
+      "id": 1769075044218,
+      "name": "Piles care ",
+      "quantity": 3,
+      "buyPrice": 130
     }
   ],
   "orders": [],
