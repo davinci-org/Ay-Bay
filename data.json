@@ -106,7 +106,12 @@
   "orders": [],
   "payments": [],
   "expenses": [],
-  "shops": [],
+  "shops": [
+    {
+      "id": 1769075693754,
+      "name": "Drz - DaVinci"
+    }
+  ],
   "notes": [
     {
       "id": 1769075422795,
