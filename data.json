@@ -71,6 +71,12 @@
       "name": "Saffron tab",
       "quantity": 2,
       "buyPrice": 105
+    },
+    {
+      "id": 1769075327428,
+      "name": "Like me 40 size ",
+      "quantity": 8,
+      "buyPrice": 130
     }
   ],
   "orders": [],
