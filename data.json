@@ -93,7 +93,7 @@
     {
       "id": 1769075383103,
       "name": "Guddi 36 size ",
-      "quantity": 12,
+      "quantity": 8,
       "buyPrice": 130
     },
     {
@@ -104,6 +104,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769075823327,
+      "productName": "Guddi 36 size ",
+      "quantity": 4,
+      "shopName": "CartUp - DaVinci",
+      "dateTime": "২২ জানু, ২০২৬, ০৩:৫৭ PM",
+      "totalCost": 520
+    },
     {
       "id": 1769075804153,
       "productName": "Citizen Quartz",
