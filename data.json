@@ -47,6 +47,12 @@
       "name": "Rolex Watch",
       "quantity": 2,
       "buyPrice": 600
+    },
+    {
+      "id": 1769075258056,
+      "name": "Weight gain",
+      "quantity": 10,
+      "buyPrice": 120
     }
   ],
   "orders": [],
