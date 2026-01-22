@@ -99,7 +99,7 @@
     {
       "id": 1769075399068,
       "name": "Guddi 32 size ",
-      "quantity": 20,
+      "quantity": 21,
       "buyPrice": 130
     }
   ],
@@ -163,5 +163,15 @@
       "date": "২২ জানু, ২০২৬, ০৩:৪৩ PM"
     }
   ],
-  "returns": []
+  "returns": [
+    {
+      "id": 1769084054785,
+      "dateTime": "২২ জানু, ২০২৬, ০৬:১৪ PM",
+      "shopName": "CartUp - Taqwora",
+      "productName": "Guddi 32 size ",
+      "quantity": 1,
+      "refundValue": 130,
+      "reason": ""
+    }
+  ]
 }
