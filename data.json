@@ -29,6 +29,12 @@
       "name": "Energy boost ",
       "quantity": 4,
       "buyPrice": 130
+    },
+    {
+      "id": 1769075079152,
+      "name": "Ar-Rahikul Book",
+      "quantity": 2,
+      "buyPrice": 500
     }
   ],
   "orders": [],
