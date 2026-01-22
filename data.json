@@ -39,7 +39,7 @@
     {
       "id": 1769075122699,
       "name": "Citizen Quartz",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 700
     },
     {
@@ -103,7 +103,16 @@
       "buyPrice": 130
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": 1769075804153,
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২২ জানু, ২০২৬, ০৩:৫৬ PM",
+      "totalCost": 700
+    }
+  ],
   "payments": [],
   "expenses": [],
   "shops": [
