@@ -53,6 +53,12 @@
       "name": "Weight gain",
       "quantity": 10,
       "buyPrice": 120
+    },
+    {
+      "id": 1769075279541,
+      "name": "Maca",
+      "quantity": 2,
+      "buyPrice": 180
     }
   ],
   "orders": [],
