@@ -41,6 +41,12 @@
       "name": "Citizen Quartz",
       "quantity": 2,
       "buyPrice": 700
+    },
+    {
+      "id": 1769075231875,
+      "name": "Rolex Watch",
+      "quantity": 2,
+      "buyPrice": 600
     }
   ],
   "orders": [],
