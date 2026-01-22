@@ -59,6 +59,12 @@
       "name": "Maca",
       "quantity": 2,
       "buyPrice": 180
+    },
+    {
+      "id": 1769075295177,
+      "name": "Oil ",
+      "quantity": 7,
+      "buyPrice": 105
     }
   ],
   "orders": [],
