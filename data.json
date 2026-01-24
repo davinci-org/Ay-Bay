@@ -39,7 +39,7 @@
     {
       "id": 1769075122699,
       "name": "Citizen Quartz",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 700
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769239083461,
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২৪ জানু, ২০২৬, ০১:১৮ PM",
+      "totalCost": 700
+    },
     {
       "id": 1769075823327,
       "productName": "Guddi 36 size ",
