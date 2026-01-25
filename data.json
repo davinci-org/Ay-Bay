@@ -3,7 +3,7 @@
     {
       "id": 1769074956886,
       "name": "Gluta ",
-      "quantity": 4,
+      "quantity": 1,
       "buyPrice": 250
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769351583525,
+      "productName": "Gluta ",
+      "quantity": 3,
+      "shopName": "CartUp - DaVinci",
+      "dateTime": "২৫ জানু, ২০২৬, ০৮:৩৩ PM",
+      "totalCost": 750
+    },
     {
       "id": 1769351572060,
       "productName": "Gluta ",
