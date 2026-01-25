@@ -3,7 +3,7 @@
     {
       "id": 1769074956886,
       "name": "Gluta ",
-      "quantity": 6,
+      "quantity": 4,
       "buyPrice": 250
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769351572060,
+      "productName": "Gluta ",
+      "quantity": 2,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২৫ জানু, ২০২৬, ০৮:৩২ PM",
+      "totalCost": 500
+    },
     {
       "id": 1769239083461,
       "productName": "Citizen Quartz",
