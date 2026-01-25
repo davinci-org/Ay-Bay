@@ -135,7 +135,15 @@
       "totalCost": 700
     }
   ],
-  "payments": [],
+  "payments": [
+    {
+      "id": 1769331379862,
+      "dateTime": "২৫ জানু, ২০২৬, ০২:৫৬ PM",
+      "shopName": "Drz - DaVinci",
+      "amount": 3000,
+      "note": ""
+    }
+  ],
   "expenses": [],
   "shops": [
     {
