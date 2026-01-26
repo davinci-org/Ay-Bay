@@ -105,11 +105,19 @@
     {
       "id": 1769173284177,
       "name": "Height Develop Diiba",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 105
     }
   ],
   "orders": [
+    {
+      "id": 1769417190599,
+      "productName": "Height Develop Diiba",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২৬ জানু, ২০২৬, ০২:৪৬ PM",
+      "totalCost": 105
+    },
     {
       "id": 1769351583525,
       "productName": "Gluta ",
