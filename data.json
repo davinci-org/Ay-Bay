@@ -39,7 +39,7 @@
     {
       "id": 1769075122699,
       "name": "Citizen Quartz",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 700
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769417215038,
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২৬ জানু, ২০২৬, ০২:৪৬ PM",
+      "totalCost": 700
+    },
     {
       "id": 1769417203882,
       "productName": "Saffron tab",
