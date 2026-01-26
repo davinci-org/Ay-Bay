@@ -75,7 +75,7 @@
     {
       "id": 1769075327428,
       "name": "Like me 40 size ",
-      "quantity": 8,
+      "quantity": 5,
       "buyPrice": 130
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769417239091,
+      "productName": "Like me 40 size ",
+      "quantity": 3,
+      "shopName": "CartUp - DaVinci",
+      "dateTime": "২৬ জানু, ২০২৬, ০২:৪৭ PM",
+      "totalCost": 390
+    },
     {
       "id": 1769417215038,
       "productName": "Citizen Quartz",
