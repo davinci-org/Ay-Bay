@@ -69,7 +69,7 @@
     {
       "id": 1769075311594,
       "name": "Saffron tab",
-      "quantity": 13,
+      "quantity": 8,
       "buyPrice": 105
     },
     {
@@ -110,6 +110,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1769522950132,
+      "productName": "Saffron tab",
+      "quantity": 5,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২৭ জানু, ২০২৬, ০৮:০৯ PM",
+      "totalCost": 525
+    },
     {
       "id": 1769417256622,
       "productName": "Saffron tab",
