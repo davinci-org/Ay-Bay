@@ -69,7 +69,7 @@
     {
       "id": 1769075311594,
       "name": "Saffron tab",
-      "quantity": 8,
+      "quantity": 9,
       "buyPrice": 105
     },
     {
@@ -258,6 +258,15 @@
     }
   ],
   "returns": [
+    {
+      "id": 1769522975257,
+      "dateTime": "২৭ জানু, ২০২৬, ০৮:০৯ PM",
+      "shopName": "Drz - DaVinci",
+      "productName": "Saffron tab",
+      "quantity": 1,
+      "refundValue": 105,
+      "reason": ""
+    },
     {
       "id": 1769234929283,
       "dateTime": "২৪ জানু, ২০২৬, ১২:০৮ PM",
