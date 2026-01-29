@@ -231,6 +231,13 @@
   ],
   "payments": [
     {
+      "id": 1769691059057,
+      "dateTime": "২৯ জানু, ২০২৬, ০৬:৫০ PM",
+      "shopName": "CartUp - Taqwora",
+      "amount": 1800,
+      "note": ""
+    },
+    {
       "id": 1769691046412,
       "dateTime": "২৯ জানু, ২০২৬, ০৬:৫০ PM",
       "shopName": "CartUp - DaVinci",
