@@ -258,7 +258,14 @@
       "note": ""
     }
   ],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": 1769933250068,
+      "dateTime": "১ ফেব, ২০২৬, ০২:০৭ PM",
+      "reason": "Packaging ",
+      "amount": 500
+    }
+  ],
   "shops": [
     {
       "id": 1769075693754,
