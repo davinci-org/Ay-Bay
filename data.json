@@ -117,12 +117,11 @@
     {
       "id": 1769698018230,
       "name": "Elite Pure Drinking Powder",
-      "quantity": 1,
+      "quantity": 2,
       "buyPrice": 170
     }
   ],
   "orders": [
-    
     {
       "id": 1769950294798,
       "productName": "Forgot energy drink ",
