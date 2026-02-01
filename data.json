@@ -237,6 +237,13 @@
   ],
   "payments": [
     {
+      "id": 1769933389304,
+      "dateTime": "১ ফেব, ২০২৬, ০২:০৯ PM",
+      "shopName": "Drz - DaVinci",
+      "amount": 6800,
+      "note": ""
+    },
+    {
       "id": 1769691059057,
       "dateTime": "২৯ জানু, ২০২৬, ০৬:৫০ PM",
       "shopName": "CartUp - Taqwora",
