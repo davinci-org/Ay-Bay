@@ -117,11 +117,19 @@
     {
       "id": 1769698018230,
       "name": "Elite Pure Drinking Powder",
-      "quantity": 3,
+      "quantity": 2,
       "buyPrice": 170
     }
   ],
   "orders": [
+    {
+      "id": 1769950269265,
+      "productName": "Elite Pure Drinking Powder",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "১ ফেব, ২০২৬, ০৬:৫১ PM",
+      "totalCost": 170
+    },
     {
       "id": 1769950252795,
       "productName": "Saffron tab",
