@@ -122,14 +122,7 @@
     }
   ],
   "orders": [
-    {
-      "id": 1769950335181,
-      "productName": "Elite Pure Drinking Powder",
-      "quantity": 1,
-      "shopName": "Drz - DaVinci",
-      "dateTime": "১ ফেব, ২০২৬, ০৬:৫২ PM",
-      "totalCost": 170
-    },
+    
     {
       "id": 1769950294798,
       "productName": "Forgot energy drink ",
