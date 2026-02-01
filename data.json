@@ -267,6 +267,12 @@
   ],
   "expenses": [
     {
+      "id": 1769950048932,
+      "dateTime": "১ ফেব, ২০২৬, ০৬:৪৭ PM",
+      "reason": "Elite Pure Drinking Powder 3ta R Gluta 5ta",
+      "amount": 1755
+    },
+    {
       "id": 1769933250068,
       "dateTime": "১ ফেব, ২০২৬, ০২:০৭ PM",
       "reason": "Packaging ",
