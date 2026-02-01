@@ -267,6 +267,12 @@
   ],
   "expenses": [
     {
+      "id": 1769950075948,
+      "dateTime": "১ ফেব, ২০২৬, ০৬:৪৭ PM",
+      "reason": "Saffron 15ta Height develop 5ta",
+      "amount": 2100
+    },
+    {
       "id": 1769950048932,
       "dateTime": "১ ফেব, ২০২৬, ০৬:৪৭ PM",
       "reason": "Elite Pure Drinking Powder 3ta R Gluta 5ta",
