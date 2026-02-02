@@ -69,7 +69,7 @@
     {
       "id": 1769075311594,
       "name": "Saffron tab",
-      "quantity": 3,
+      "quantity": 1,
       "buyPrice": 105
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770024331320,
+      "productName": "Saffron tab",
+      "quantity": 2,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "২ ফেব, ২০২৬, ০৩:২৫ PM",
+      "totalCost": 210
+    },
     {
       "id": 1769950294798,
       "productName": "Forgot energy drink ",
