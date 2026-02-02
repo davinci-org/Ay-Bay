@@ -9,7 +9,7 @@
     {
       "id": 1769074969505,
       "name": "Saffron packet ",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 200
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770024367496,
+      "productName": "Saffron packet ",
+      "quantity": 1,
+      "shopName": "CartUp - DaVinci",
+      "dateTime": "২ ফেব, ২০২৬, ০৩:২৬ PM",
+      "totalCost": 200
+    },
     {
       "id": 1770024344224,
       "productName": "Citizen Quartz",
