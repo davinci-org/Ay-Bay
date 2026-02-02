@@ -39,7 +39,7 @@
     {
       "id": 1769075122699,
       "name": "Citizen Quartz",
-      "quantity": 0,
+      "quantity": 1,
       "buyPrice": 700
     },
     {
@@ -365,6 +365,15 @@
     }
   ],
   "returns": [
+    {
+      "id": 1770010019988,
+      "dateTime": "২ ফেব, ২০২৬, ১১:২৬ AM",
+      "shopName": "Drz - DaVinci",
+      "productName": "Citizen Quartz",
+      "quantity": 1,
+      "refundValue": 700,
+      "reason": ""
+    },
     {
       "id": 1769949713932,
       "dateTime": "১ ফেব, ২০২৬, ০৬:৪১ PM",
