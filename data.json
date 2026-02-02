@@ -323,6 +323,12 @@
   ],
   "expenses": [
     {
+      "id": 1770046768377,
+      "dateTime": "২ ফেব, ২০২৬, ০৯:৩৯ PM",
+      "reason": "Citizen Quartz ",
+      "amount": 1950
+    },
+    {
       "id": 1769950075948,
       "dateTime": "১ ফেব, ২০২৬, ০৬:৪৭ PM",
       "reason": "Saffron 15ta Height develop 5ta",
