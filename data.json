@@ -105,7 +105,7 @@
     {
       "id": 1769173284177,
       "name": "Height Develop Dibba",
-      "quantity": 5,
+      "quantity": 4,
       "buyPrice": 110
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770129547838,
+      "productName": "Height Develop Dibba",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৩ ফেব, ২০২৬, ০৮:৩৯ PM",
+      "totalCost": 110
+    },
     {
       "id": 1770129486286,
       "productName": "Piles care ",
