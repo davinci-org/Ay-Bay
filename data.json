@@ -51,7 +51,7 @@
     {
       "id": 1769075258056,
       "name": "Weight gain",
-      "quantity": 10,
+      "quantity": 9,
       "buyPrice": 120
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770129461304,
+      "productName": "Weight gain",
+      "quantity": 1,
+      "shopName": "CartUp - DaVinci",
+      "dateTime": "৩ ফেব, ২০২৬, ০৮:৩৭ PM",
+      "totalCost": 120
+    },
     {
       "id": 1770024367496,
       "productName": "Saffron packet ",
