@@ -21,7 +21,7 @@
     {
       "id": 1769075044218,
       "name": "Piles care ",
-      "quantity": 3,
+      "quantity": 0,
       "buyPrice": 130
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770129486286,
+      "productName": "Piles care ",
+      "quantity": 3,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৩ ফেব, ২০২৬, ০৮:৩৮ PM",
+      "totalCost": 390
+    },
     {
       "id": 1770129461304,
       "productName": "Weight gain",
