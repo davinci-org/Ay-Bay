@@ -39,7 +39,7 @@
     {
       "id": 1769075122699,
       "name": "Citizen Quartz",
-      "quantity": 3,
+      "quantity": 0,
       "buyPrice": 700
     },
     {
@@ -128,6 +128,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770302340530,
+      "productName": "Citizen Quartz",
+      "quantity": 3,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৫ ফেব, ২০২৬, ০৮:৩৯ PM",
+      "totalCost": 2100
+    },
     {
       "id": 1770129547838,
       "productName": "Height Develop Dibba",
