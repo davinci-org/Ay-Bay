@@ -105,7 +105,7 @@
     {
       "id": 1769173284177,
       "name": "Height Develop Dibba",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 110
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770302726782,
+      "productName": "Height Develop Dibba",
+      "quantity": 1,
+      "shopName": "CartUp - DaVinci",
+      "dateTime": "৫ ফেব, ২০২৬, ০৮:৪৫ PM",
+      "totalCost": 110
+    },
     {
       "id": 1770302602953,
       "productName": "Kashmiri Jafran",
