@@ -111,7 +111,7 @@
     {
       "id": 1769604455425,
       "name": "Kashmiri Jafran",
-      "quantity": 4,
+      "quantity": 3,
       "buyPrice": 205
     },
     {
@@ -128,6 +128,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770302602953,
+      "productName": "Kashmiri Jafran",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৫ ফেব, ২০২৬, ০৮:৪৩ PM",
+      "totalCost": 205
+    },
     {
       "id": 1770302593301,
       "productName": "Saffron tab",
