@@ -69,7 +69,7 @@
     {
       "id": 1769075311594,
       "name": "Saffron tab",
-      "quantity": 16,
+      "quantity": 12,
       "buyPrice": 110
     },
     {
@@ -128,6 +128,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770302593301,
+      "productName": "Saffron tab",
+      "quantity": 4,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৫ ফেব, ২০২৬, ০৮:৪৩ PM",
+      "totalCost": 440
+    },
     {
       "id": 1770302575537,
       "productName": "Height Develop Dibba",
