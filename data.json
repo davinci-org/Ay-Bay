@@ -111,7 +111,7 @@
     {
       "id": 1769604455425,
       "name": "Kashmiri Jafran",
-      "quantity": 3,
+      "quantity": 4,
       "buyPrice": 205
     },
     {
@@ -478,6 +478,15 @@
     }
   ],
   "returns": [
+    {
+      "id": 1770467916490,
+      "dateTime": "৭ ফেব, ২০২৬, ০৬:৩৮ PM",
+      "shopName": "Drz - DaVinci",
+      "productName": "Kashmiri Jafran",
+      "quantity": 1,
+      "refundValue": 205,
+      "reason": "Customer Request "
+    },
     {
       "id": 1770010019988,
       "dateTime": "২ ফেব, ২০২৬, ১১:২৬ AM",
