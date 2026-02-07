@@ -63,7 +63,7 @@
     {
       "id": 1769075295177,
       "name": "Oil ",
-      "quantity": 7,
+      "quantity": 6,
       "buyPrice": 105
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770467955747,
+      "productName": "Oil ",
+      "quantity": 1,
+      "shopName": "Drz - Dr.Fone",
+      "dateTime": "৭ ফেব, ২০২৬, ০৬:৩৯ PM",
+      "totalCost": 105
+    },
     {
       "id": 1770302726782,
       "productName": "Height Develop Dibba",
