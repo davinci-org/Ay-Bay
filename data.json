@@ -403,6 +403,12 @@
   ],
   "expenses": [
     {
+      "id": 1770623474338,
+      "dateTime": "৯ ফেব, ২০২৬, ০১:৫১ PM",
+      "reason": "Citizen Quartz Courier service Charge",
+      "amount": 125
+    },
+    {
       "id": 1770129428153,
       "dateTime": "৩ ফেব, ২০২৬, ০৮:৩৭ PM",
       "reason": "Citizen Quartz Courier service Charge ",
