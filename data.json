@@ -33,7 +33,7 @@
     {
       "id": 1769075122699,
       "name": "Citizen Quartz",
-      "quantity": 2,
+      "quantity": 0,
       "buyPrice": 700
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770640706389,
+      "productName": "Citizen Quartz",
+      "quantity": 2,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৯ ফেব, ২০২৬, ০৬:৩৮ PM",
+      "totalCost": 1400
+    },
     {
       "id": 1770640650000,
       "productName": "Saffron packet ",
