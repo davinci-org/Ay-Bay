@@ -9,7 +9,7 @@
     {
       "id": 1769074969505,
       "name": "Saffron packet ",
-      "quantity": 5,
+      "quantity": 2,
       "buyPrice": 200
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770640650000,
+      "productName": "Saffron packet ",
+      "quantity": 3,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৯ ফেব, ২০২৬, ০৬:৩৭ PM",
+      "totalCost": 600
+    },
     {
       "id": 1770623748243,
       "productName": "Height Develop Dibba",
