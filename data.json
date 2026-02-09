@@ -39,7 +39,7 @@
     {
       "id": 1769075231875,
       "name": "Rolex Watch",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 600
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1770640713647,
+      "productName": "Rolex Watch",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "৯ ফেব, ২০২৬, ০৬:৩৮ PM",
+      "totalCost": 600
+    },
     {
       "id": 1770640706389,
       "productName": "Citizen Quartz",
