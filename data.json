@@ -21,7 +21,7 @@
     {
       "id": 1769075056116,
       "name": "Energy boost ",
-      "quantity": 4,
+      "quantity": 3,
       "buyPrice": 130
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1771079777807,
+      "productName": "Energy boost ",
+      "quantity": 1,
+      "shopName": "Drz - Dr.Fone",
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৬ PM",
+      "totalCost": 130
+    },
     {
       "id": 1771079747544,
       "productName": "Saffron tab",
