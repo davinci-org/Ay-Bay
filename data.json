@@ -99,7 +99,7 @@
     {
       "id": 1769173284177,
       "name": "Height Develop Dibba",
-      "quantity": 2,
+      "quantity": 0,
       "buyPrice": 110
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1771079720378,
+      "productName": "Height Develop Dibba",
+      "quantity": 2,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৫ PM",
+      "totalCost": 220
+    },
     {
       "id": 1771079704447,
       "productName": "Rolex Watch",
