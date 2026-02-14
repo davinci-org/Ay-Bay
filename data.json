@@ -39,7 +39,7 @@
     {
       "id": 1769075231875,
       "name": "Rolex Watch",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 600
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1771079704447,
+      "productName": "Rolex Watch",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৫ PM",
+      "totalCost": 600
+    },
     {
       "id": 1771079694296,
       "productName": "Weight gain",
