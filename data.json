@@ -117,11 +117,19 @@
     {
       "id": 1770623653376,
       "name": "Height Develop Packet",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 170
     }
   ],
   "orders": [
+    {
+      "id": 1771079732040,
+      "productName": "Height Develop Packet",
+      "quantity": 1,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৫ PM",
+      "totalCost": 170
+    },
     {
       "id": 1771079720378,
       "productName": "Height Develop Dibba",
