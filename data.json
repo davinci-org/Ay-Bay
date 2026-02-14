@@ -63,7 +63,7 @@
     {
       "id": 1769075311594,
       "name": "Saffron tab",
-      "quantity": 4,
+      "quantity": 3,
       "buyPrice": 110
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1771079785257,
+      "productName": "Saffron tab",
+      "quantity": 1,
+      "shopName": "Drz - Uniq",
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৬ PM",
+      "totalCost": 110
+    },
     {
       "id": 1771079777807,
       "productName": "Energy boost ",
