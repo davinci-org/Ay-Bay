@@ -506,6 +506,12 @@
   ],
   "expenses": [
     {
+      "id": 1771079863787,
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৭ PM",
+      "reason": "\tCitizen Quartz 5ta",
+      "amount": 3240
+    },
+    {
       "id": 1770623483784,
       "dateTime": "৯ ফেব, ২০২৬, ০১:৫১ PM",
       "reason": "Citizen Quartz ",
