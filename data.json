@@ -63,7 +63,7 @@
     {
       "id": 1769075311594,
       "name": "Saffron tab",
-      "quantity": 8,
+      "quantity": 4,
       "buyPrice": 110
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1771079747544,
+      "productName": "Saffron tab",
+      "quantity": 4,
+      "shopName": "Drz - DaVinci",
+      "dateTime": "১৪ ফেব, ২০২৬, ০৮:৩৫ PM",
+      "totalCost": 440
+    },
     {
       "id": 1771079732040,
       "productName": "Height Develop Packet",
