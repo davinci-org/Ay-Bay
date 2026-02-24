@@ -89,6 +89,12 @@
       "name": "Like me 40 size",
       "quantity": 3,
       "buyPrice": 130
+    },
+    {
+      "id": 1771956745858,
+      "name": "Like me 34 size",
+      "quantity": 8,
+      "buyPrice": 130
     }
   ],
   "orders": [],
