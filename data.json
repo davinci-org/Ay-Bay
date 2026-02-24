@@ -29,6 +29,12 @@
       "name": "Forever energy drink",
       "quantity": 1,
       "buyPrice": 130
+    },
+    {
+      "id": 1771956549968,
+      "name": "Maca ",
+      "quantity": 2,
+      "buyPrice": 200
     }
   ],
   "orders": [],
