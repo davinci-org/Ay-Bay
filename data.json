@@ -77,6 +77,12 @@
       "name": "Height development pack",
       "quantity": 1,
       "buyPrice": 130
+    },
+    {
+      "id": 1771956710644,
+      "name": "Watch citizen ",
+      "quantity": 4,
+      "buyPrice": 700
     }
   ],
   "orders": [],
