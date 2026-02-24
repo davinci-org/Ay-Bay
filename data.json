@@ -47,6 +47,12 @@
       "name": "Weight gain ",
       "quantity": 8,
       "buyPrice": 150
+    },
+    {
+      "id": 1771956605729,
+      "name": "Saffron tab",
+      "quantity": 9,
+      "buyPrice": 105
     }
   ],
   "orders": [],
