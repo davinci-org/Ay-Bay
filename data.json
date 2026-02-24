@@ -1,5 +1,12 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1771956384197,
+      "name": "Ar Rahikul",
+      "quantity": 2,
+      "buyPrice": 240
+    }
+  ],
   "orders": [],
   "payments": [],
   "expenses": [],
