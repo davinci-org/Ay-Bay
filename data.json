@@ -5,6 +5,12 @@
       "name": "Ar Rahikul",
       "quantity": 2,
       "buyPrice": 240
+    },
+    {
+      "id": 1771956402915,
+      "name": "Energy boost ",
+      "quantity": 2,
+      "buyPrice": 120
     }
   ],
   "orders": [],
