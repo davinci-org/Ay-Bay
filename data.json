@@ -53,6 +53,12 @@
       "name": "Saffron tab",
       "quantity": 9,
       "buyPrice": 105
+    },
+    {
+      "id": 1771956620873,
+      "name": "Black coffee ",
+      "quantity": 2,
+      "buyPrice": 130
     }
   ],
   "orders": [],
