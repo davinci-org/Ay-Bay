@@ -1,1 +1,14 @@
-
+{
+  "products": [],
+  "orders": [],
+  "payments": [],
+  "expenses": [],
+  "shops": [
+    {
+      "id": 1771956307893,
+      "name": "Cartup - DaVinci"
+    }
+  ],
+  "notes": [],
+  "returns": []
+}
