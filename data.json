@@ -65,6 +65,12 @@
       "name": "Oil",
       "quantity": 4,
       "buyPrice": 105
+    },
+    {
+      "id": 1771956644608,
+      "name": "Piles care ",
+      "quantity": 4,
+      "buyPrice": 130
     }
   ],
   "orders": [],
