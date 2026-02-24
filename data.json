@@ -41,6 +41,12 @@
       "name": "Saffron packet",
       "quantity": 6,
       "buyPrice": 210
+    },
+    {
+      "id": 1771956576268,
+      "name": "Weight gain ",
+      "quantity": 8,
+      "buyPrice": 150
     }
   ],
   "orders": [],
