@@ -59,6 +59,12 @@
       "name": "Black coffee ",
       "quantity": 2,
       "buyPrice": 130
+    },
+    {
+      "id": 1771956631292,
+      "name": "Oil",
+      "quantity": 4,
+      "buyPrice": 105
     }
   ],
   "orders": [],
