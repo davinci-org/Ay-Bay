@@ -11,6 +11,12 @@
       "name": "Energy boost ",
       "quantity": 2,
       "buyPrice": 120
+    },
+    {
+      "id": 1771956430376,
+      "name": "Kashmiri jafran tab ",
+      "quantity": 4,
+      "buyPrice": 210
     }
   ],
   "orders": [],
