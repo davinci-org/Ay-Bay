@@ -15,7 +15,7 @@
     {
       "id": 1771956430376,
       "name": "Kashmiri jafran tab ",
-      "quantity": 4,
+      "quantity": 3,
       "buyPrice": 210
     },
     {
@@ -122,6 +122,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772016463658,
+      "productName": "Kashmiri jafran tab ",
+      "quantity": 1,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "২৫ ফেব, ২০২৬, ০৪:৪৭ PM",
+      "totalCost": 210
+    },
     {
       "id": 1772016454481,
       "productName": "Rolex Watch ",
