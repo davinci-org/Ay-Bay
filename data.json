@@ -117,7 +117,7 @@
     {
       "id": 1772014569205,
       "name": "Rolex Watch ",
-      "quantity": 2,
+      "quantity": 3,
       "buyPrice": 675
     }
   ],
@@ -189,5 +189,15 @@
       "date": "২৫ ফেব, ২০২৬, ১২:১৩ AM"
     }
   ],
-  "returns": []
+  "returns": [
+    {
+      "id": 1772014593132,
+      "dateTime": "২৫ ফেব, ২০২৬, ০৪:১৬ PM",
+      "shopName": "LAZADA - DaVinci",
+      "productName": "Rolex Watch ",
+      "quantity": 1,
+      "refundValue": 675,
+      "reason": ""
+    }
+  ]
 }
