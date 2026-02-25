@@ -117,11 +117,20 @@
     {
       "id": 1772014569205,
       "name": "Rolex Watch ",
-      "quantity": 3,
+      "quantity": 1,
       "buyPrice": 675
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": 1772016454481,
+      "productName": "Rolex Watch ",
+      "quantity": 2,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "২৫ ফেব, ২০২৬, ০৪:৪৭ PM",
+      "totalCost": 1350
+    }
+  ],
   "payments": [],
   "expenses": [],
   "shops": [
