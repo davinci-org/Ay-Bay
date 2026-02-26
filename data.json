@@ -87,7 +87,7 @@
     {
       "id": 1771956730192,
       "name": "Like me 40 size",
-      "quantity": 3,
+      "quantity": 0,
       "buyPrice": 130
     },
     {
@@ -128,6 +128,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772100236106,
+      "productName": "Like me 40 size",
+      "quantity": 3,
+      "shopName": "Cartup - DaVinci",
+      "dateTime": "২৬ ফেব, ২০২৬, ০৪:০৩ PM",
+      "totalCost": 390
+    },
     {
       "id": 1772016463658,
       "productName": "Kashmiri jafran tab ",
