@@ -123,11 +123,19 @@
     {
       "id": 1772100175915,
       "name": "Height development Dibba",
-      "quantity": 8,
+      "quantity": 4,
       "buyPrice": 168
     }
   ],
   "orders": [
+    {
+      "id": 1772100287864,
+      "productName": "Height development Dibba",
+      "quantity": 4,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "২৬ ফেব, ২০২৬, ০৪:০৪ PM",
+      "totalCost": 672
+    },
     {
       "id": 1772100275584,
       "productName": "Saffron tab",
