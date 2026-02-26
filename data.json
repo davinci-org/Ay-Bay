@@ -193,7 +193,15 @@
       "totalCost": 1350
     }
   ],
-  "payments": [],
+  "payments": [
+    {
+      "id": 1772100323984,
+      "dateTime": "২৬ ফেব, ২০২৬, ০৪:০৫ PM",
+      "shopName": "LAZADA - DaVinci",
+      "amount": 2000,
+      "note": ""
+    }
+  ],
   "expenses": [],
   "shops": [
     {
