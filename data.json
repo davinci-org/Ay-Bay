@@ -51,7 +51,7 @@
     {
       "id": 1771956605729,
       "name": "Saffron tab",
-      "quantity": 9,
+      "quantity": 7,
       "buyPrice": 105
     },
     {
@@ -128,6 +128,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772100275584,
+      "productName": "Saffron tab",
+      "quantity": 2,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "২৬ ফেব, ২০২৬, ০৪:০৪ PM",
+      "totalCost": 210
+    },
     {
       "id": 1772100263701,
       "productName": "Watch citizen ",
