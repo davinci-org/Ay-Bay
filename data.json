@@ -51,7 +51,7 @@
     {
       "id": 1771956605729,
       "name": "Saffron tab",
-      "quantity": 7,
+      "quantity": 11,
       "buyPrice": 105
     },
     {
@@ -270,6 +270,15 @@
     }
   ],
   "returns": [
+    {
+      "id": 1772293974321,
+      "dateTime": "২৮ ফেব, ২০২৬, ০৯:৫২ PM",
+      "shopName": "LAZADA - DaVinci",
+      "productName": "Saffron tab",
+      "quantity": 4,
+      "refundValue": 420,
+      "reason": ""
+    },
     {
       "id": 1772014609124,
       "dateTime": "২৫ ফেব, ২০২৬, ০৪:১৬ PM",
