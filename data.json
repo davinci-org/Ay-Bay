@@ -51,7 +51,7 @@
     {
       "id": 1771956605729,
       "name": "Saffron tab",
-      "quantity": 4,
+      "quantity": 0,
       "buyPrice": 105
     },
     {
@@ -134,6 +134,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772514541952,
+      "productName": "Saffron tab",
+      "quantity": 4,
+      "shopName": "LAZADA - Uniq",
+      "dateTime": "৩ মার্চ, ২০২৬, ১১:০৯ AM",
+      "totalCost": 420
+    },
     {
       "id": 1772514529724,
       "productName": "Saffron tab",
