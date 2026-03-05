@@ -15,7 +15,7 @@
     {
       "id": 1771956430376,
       "name": "Kashmiri jafran tab ",
-      "quantity": 3,
+      "quantity": 2,
       "buyPrice": 210
     },
     {
@@ -134,6 +134,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772711124483,
+      "productName": "Kashmiri jafran tab ",
+      "quantity": 1,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "৫ মার্চ, ২০২৬, ০৫:৪৫ PM",
+      "totalCost": 210,
+      "note": ""
+    },
     {
       "id": 1772711114293,
       "productName": "Watch citizen ",
