@@ -81,7 +81,7 @@
     {
       "id": 1771956710644,
       "name": "Watch citizen ",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 700
     },
     {
@@ -134,6 +134,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772711114293,
+      "productName": "Watch citizen ",
+      "quantity": 1,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "৫ মার্চ, ২০২৬, ০৫:৪৫ PM",
+      "totalCost": 700,
+      "note": ""
+    },
     {
       "id": 1772692248352,
       "productName": "Forever energy drink",
