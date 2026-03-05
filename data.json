@@ -51,7 +51,7 @@
     {
       "id": 1771956605729,
       "name": "Saffron tab",
-      "quantity": 12,
+      "quantity": 10,
       "buyPrice": 105
     },
     {
@@ -134,6 +134,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772711133258,
+      "productName": "Saffron tab",
+      "quantity": 2,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "৫ মার্চ, ২০২৬, ০৫:৪৫ PM",
+      "totalCost": 210,
+      "note": ""
+    },
     {
       "id": 1772711124483,
       "productName": "Kashmiri jafran tab ",
