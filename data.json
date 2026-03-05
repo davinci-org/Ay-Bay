@@ -27,7 +27,7 @@
     {
       "id": 1771956539853,
       "name": "Forever energy drink",
-      "quantity": 3,
+      "quantity": 0,
       "buyPrice": 130
     },
     {
@@ -134,6 +134,14 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772692248352,
+      "productName": "Forever energy drink",
+      "quantity": 3,
+      "shopName": "Cartup - DaVinci",
+      "dateTime": "৫ মার্চ, ২০২৬, ১২:৩০ PM",
+      "totalCost": 390
+    },
     {
       "id": 1772619091676,
       "productName": "Saffron tab",
