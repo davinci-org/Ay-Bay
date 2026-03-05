@@ -75,7 +75,7 @@
     {
       "id": 1771956700498,
       "name": "Height development pack",
-      "quantity": 1,
+      "quantity": 0,
       "buyPrice": 130
     },
     {
@@ -134,6 +134,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772711145207,
+      "productName": "Height development pack",
+      "quantity": 1,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "৫ মার্চ, ২০২৬, ০৫:৪৫ PM",
+      "totalCost": 130,
+      "note": ""
+    },
     {
       "id": 1772711133258,
       "productName": "Saffron tab",
