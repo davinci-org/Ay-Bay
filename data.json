@@ -51,7 +51,7 @@
     {
       "id": 1771956605729,
       "name": "Saffron tab",
-      "quantity": 30,
+      "quantity": 26,
       "buyPrice": 105
     },
     {
@@ -134,6 +134,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772878498516,
+      "productName": "Saffron tab",
+      "quantity": 4,
+      "shopName": "Cartup - DaVinci",
+      "dateTime": "৭ মার্চ, ২০২৬, ০৪:১৪ PM",
+      "totalCost": 420,
+      "note": ""
+    },
     {
       "id": 1772711145207,
       "productName": "Height development pack",
