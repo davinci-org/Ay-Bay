@@ -9,7 +9,7 @@
     {
       "id": 1771956402915,
       "name": "Energy boost ",
-      "quantity": 2,
+      "quantity": 1,
       "buyPrice": 120
     },
     {
@@ -134,6 +134,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1772878520364,
+      "productName": "Energy boost ",
+      "quantity": 1,
+      "shopName": "LAZADA - Dr.Fone",
+      "dateTime": "৭ মার্চ, ২০২৬, ০৪:১৫ PM",
+      "totalCost": 120,
+      "note": ""
+    },
     {
       "id": 1772878512031,
       "productName": "Oil",
