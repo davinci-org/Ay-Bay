@@ -129,11 +129,20 @@
     {
       "id": 1772100417685,
       "name": "Arabic Aura Watch",
-      "quantity": 2,
+      "quantity": 0,
       "buyPrice": 222
     }
   ],
   "orders": [
+    {
+      "id": 1772878566178,
+      "productName": "Arabic Aura Watch",
+      "quantity": 2,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "৭ মার্চ, ২০২৬, ০৪:১৬ PM",
+      "totalCost": 444,
+      "note": ""
+    },
     {
       "id": 1772878555162,
       "productName": "Rolex Watch ",
