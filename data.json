@@ -417,7 +417,14 @@
       "note": ""
     }
   ],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": 1772878832765,
+      "dateTime": "৭ মার্চ, ২০২৬, ০৪:২০ PM",
+      "reason": "Packages ",
+      "amount": 200
+    }
+  ],
   "shops": [
     {
       "id": 1771956307893,
