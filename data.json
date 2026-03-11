@@ -123,7 +123,7 @@
     {
       "id": 1772100175915,
       "name": "Height development Dibba",
-      "quantity": 6,
+      "quantity": 2,
       "buyPrice": 168
     },
     {
@@ -140,6 +140,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1773209836471,
+      "productName": "Height development Dibba",
+      "quantity": 4,
+      "shopName": "Cartup - DaVinci",
+      "dateTime": "১১ মার্চ, ২০২৬, ১২:১৭ PM",
+      "totalCost": 672,
+      "note": ""
+    },
     {
       "id": 1773209805572,
       "productName": "Arabic Aura Watch",
