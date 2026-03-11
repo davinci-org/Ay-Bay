@@ -105,7 +105,7 @@
     {
       "id": 1771956779246,
       "name": "Guddi 36 size ",
-      "quantity": 2,
+      "quantity": 6,
       "buyPrice": 130
     },
     {
@@ -467,6 +467,15 @@
     }
   ],
   "returns": [
+    {
+      "id": 1773209696732,
+      "dateTime": "১১ মার্চ, ২০২৬, ১২:১৪ PM",
+      "shopName": "Cartup - DaVinci",
+      "productName": "Guddi 36 size ",
+      "quantity": 4,
+      "refundValue": 520,
+      "reason": ""
+    },
     {
       "id": 1773209652768,
       "dateTime": "১১ মার্চ, ২০২৬, ১২:১৪ PM",
