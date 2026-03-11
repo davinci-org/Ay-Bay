@@ -45,7 +45,7 @@
     {
       "id": 1771956576268,
       "name": "Weight gain ",
-      "quantity": 8,
+      "quantity": 7,
       "buyPrice": 150
     },
     {
@@ -140,6 +140,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1773209849422,
+      "productName": "Weight gain ",
+      "quantity": 1,
+      "shopName": "Cartup - DaVinci",
+      "dateTime": "১১ মার্চ, ২০২৬, ১২:১৭ PM",
+      "totalCost": 150,
+      "note": ""
+    },
     {
       "id": 1773209836471,
       "productName": "Height development Dibba",
