@@ -51,7 +51,7 @@
     {
       "id": 1771956605729,
       "name": "Saffron tab",
-      "quantity": 16,
+      "quantity": 13,
       "buyPrice": 105
     },
     {
@@ -140,6 +140,15 @@
     }
   ],
   "orders": [
+    {
+      "id": 1773209794140,
+      "productName": "Saffron tab",
+      "quantity": 3,
+      "shopName": "LAZADA - DaVinci",
+      "dateTime": "১১ মার্চ, ২০২৬, ১২:১৬ PM",
+      "totalCost": 315,
+      "note": ""
+    },
     {
       "id": 1772878566178,
       "productName": "Arabic Aura Watch",
