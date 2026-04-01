@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956730192,
-      "name": "Like me 40 size",
-      "quantity": 2,
-      "buyPrice": 130
-    },
-    {
       "id": 1771956745858,
       "name": "Like me 34 size",
       "quantity": 8,
