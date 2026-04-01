@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956631292,
-      "name": "Oil",
-      "quantity": 3,
-      "buyPrice": 105
-    },
-    {
       "id": 1771956644608,
       "name": "Piles care ",
       "quantity": 4,
