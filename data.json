@@ -1,12 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1773209744322,
-      "name": "Gluta",
-      "quantity": 3,
-      "buyPrice": 260
-    }
-  ],
+  "products": [],
   "orders": [
     {
       "id": 1773209849422,
