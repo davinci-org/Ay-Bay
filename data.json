@@ -65,6 +65,12 @@
       "name": "Piles care ",
       "quantity": 1,
       "buyPrice": 135
+    },
+    {
+      "id": 1775032164986,
+      "name": "Vita protein",
+      "quantity": 1,
+      "buyPrice": 155
     }
   ],
   "orders": [
