@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956523561,
-      "name": "elite pure drinking powder",
-      "quantity": 2,
-      "buyPrice": 130
-    },
-    {
       "id": 1771956539853,
       "name": "Forever energy drink",
       "quantity": 0,
