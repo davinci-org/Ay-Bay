@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956779246,
-      "name": "Guddi 36 size ",
-      "quantity": 6,
-      "buyPrice": 130
-    },
-    {
       "id": 1771956797736,
       "name": "Guddi 32 size",
       "quantity": 21,
