@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956549968,
-      "name": "Maca ",
-      "quantity": 2,
-      "buyPrice": 200
-    },
-    {
       "id": 1771956564423,
       "name": "Saffron packet",
       "quantity": 5,
