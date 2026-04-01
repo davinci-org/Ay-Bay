@@ -35,6 +35,12 @@
       "name": "Boi ",
       "quantity": 2,
       "buyPrice": 230
+    },
+    {
+      "id": 1775032092356,
+      "name": "Forever",
+      "quantity": 9,
+      "buyPrice": 140
     }
   ],
   "orders": [
