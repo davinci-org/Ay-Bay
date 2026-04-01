@@ -17,6 +17,12 @@
       "name": "Kashmiri saffron",
       "quantity": 3,
       "buyPrice": 210
+    },
+    {
+      "id": 1775032046813,
+      "name": "Maca powder",
+      "quantity": 2,
+      "buyPrice": 200
     }
   ],
   "orders": [
