@@ -29,6 +29,12 @@
       "name": "pura chira",
       "quantity": 1,
       "buyPrice": 150
+    },
+    {
+      "id": 1775032073563,
+      "name": "Boi ",
+      "quantity": 2,
+      "buyPrice": 230
     }
   ],
   "orders": [
