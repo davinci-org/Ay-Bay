@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956605729,
-      "name": "Saffron tab",
-      "quantity": 14,
-      "buyPrice": 105
-    },
-    {
       "id": 1771956620873,
       "name": "Black coffee ",
       "quantity": 2,
