@@ -23,6 +23,12 @@
       "name": "Maca powder",
       "quantity": 2,
       "buyPrice": 200
+    },
+    {
+      "id": 1775032061483,
+      "name": "pura chira",
+      "quantity": 1,
+      "buyPrice": 150
     }
   ],
   "orders": [
