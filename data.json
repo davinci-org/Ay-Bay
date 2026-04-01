@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956644608,
-      "name": "Piles care ",
-      "quantity": 4,
-      "buyPrice": 130
-    },
-    {
       "id": 1771956700498,
       "name": "Height development pack",
       "quantity": 0,
