@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956539853,
-      "name": "Forever energy drink",
-      "quantity": 0,
-      "buyPrice": 130
-    },
-    {
       "id": 1771956549968,
       "name": "Maca ",
       "quantity": 2,
