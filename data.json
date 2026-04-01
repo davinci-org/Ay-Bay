@@ -1,5 +1,12 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1775032006103,
+      "name": "saffron",
+      "quantity": 4,
+      "buyPrice": 110
+    }
+  ],
   "orders": [
     {
       "id": 1773209849422,
