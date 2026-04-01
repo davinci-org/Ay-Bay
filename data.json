@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 1771956564423,
-      "name": "Saffron packet",
-      "quantity": 5,
-      "buyPrice": 210
-    },
-    {
       "id": 1771956576268,
       "name": "Weight gain ",
       "quantity": 7,
